@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello there 👋 Welcome to my Github profile.
 
+- My name is Davi Trost Gouveia and I'm currently studying computer engineering and exploring the web developer world :technologist: 
 <!--
 **davitgouveia/davitgouveia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
