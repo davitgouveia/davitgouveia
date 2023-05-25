@@ -17,8 +17,8 @@
 
 
 <p><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=davitgouveia&show_icons=true&theme=dark&locale=en&layout=compact" alt="davitgouveia" />  <img align="right"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U2NTA4MDJmMjY1YWJhNDA1OWUzYjRmYzI4YjU5OWIwOWE2NTdjYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SwImQhtiNA7io/giphy.gif" alt="davitgouveia" /></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p>a<img  align="center"src="https://github-readme-stats.vercel.app/api?username=davitgouveia&show_icons=true&theme=dark&locale=en" alt="davitgouveia" /></p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><hr>
+<p><img  align="center"src="https://github-readme-stats.vercel.app/api?username=davitgouveia&show_icons=true&theme=dark&locale=en" alt="davitgouveia" /></p>
 
 
 
