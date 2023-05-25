@@ -4,6 +4,7 @@
 <br>
 
 - 🌱 Currently learning **Web Development**
+- 🧑‍💻 Check out my resume project: <a href="https://davitgouveia.github.io/Curriculum/home-enUS.html">Discord-like Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
