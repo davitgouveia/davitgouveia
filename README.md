@@ -1,9 +1,9 @@
 <h1 align="center">Hello There! 👋 I'm Davi Gouveia</h1>
-<h3>Computer engineering student and technology lover</h3>
+<h3>Computer engineering student</h3>
 
 <br>
 
-- 🌱 Currently learning **Web Development**
+- 🌱 Currently working as **Fullstack Developer**
 - 🧑‍💻 Check out my resume project: <a href="https://davitgouveia.github.io/Discord-like-Resume/home-enUS.html">Discord-like Resume</a>
 
 <h3 align="left">Connect with me:</h3>
